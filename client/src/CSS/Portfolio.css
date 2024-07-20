@@ -1,0 +1,17 @@
+.P-C{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+.P-C h2{
+    font-size: 3rem;
+    margin: 0;
+}
+.P-C p{
+    margin-top: 30px;
+}

@@ -1,0 +1,24 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+.about button{
+    background-color: white;
+    color: black;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    margin-left: 30px;
+    opacity: 0.9;
+  }
+ 
